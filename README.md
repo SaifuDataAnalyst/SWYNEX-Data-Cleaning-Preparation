@@ -1,24 +1,24 @@
-SWYNEX - Student Performance Dataset Data Cleaning
+# SWYNEX - Student Performance Dataset Data Cleaning
 
-Dataset
+## Dataset
 
 Student Performance Dataset (Mathematics)
 
-Source
+## Source
 
 UCI Machine Learning Repository
 
-Dataset Size
+## Dataset Size
 
 395 rows and 33 columns
 
-Tools Used
+## Tools Used
 
 - Python
 - Pandas
 - Jupyter Notebook
 
-Data Cleaning & Preparation
+## Data Cleaning & Preparation
 
 The dataset was inspected and prepared for analysis using Python and Pandas.
 
@@ -54,7 +54,7 @@ The dataset was inspected and prepared for analysis using Python and Pandas.
 - Created a verified copy of the dataset.
 - Exported the prepared dataset as "student_mat_cleaned.csv".
 
-Output
+## Output
 
 The prepared dataset is saved as:
 
