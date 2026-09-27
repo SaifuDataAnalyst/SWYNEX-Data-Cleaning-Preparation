@@ -1,26 +1,61 @@
+SWYNEX - Student Performance Dataset Data Cleaning
 
-# Student Performance Dataset - Data Cleaning
+Dataset
 
-## Dataset
 Student Performance Dataset (Mathematics)
 
-## Source
+Source
+
 UCI Machine Learning Repository
 
-## Dataset Size
+Dataset Size
+
 395 rows and 33 columns
 
-## Data Cleaning Performed
+Tools Used
 
-1. Checked the dataset structure and data types.
-2. Checked for missing values.
-   - Result: No missing values found.
-3. Checked for duplicate records.
-   - Result: 0 duplicate records found.
-4. Checked categorical values for consistency.
-5. Created a cleaned copy of the dataset.
-6. Exported the cleaned dataset as student_mat_cleaned.csv
+- Python
+- Pandas
+- Jupyter Notebook
 
-## Output
-The cleaned dataset is saved as:
-student_mat_cleaned.csv
+Data Cleaning & Preparation
+
+The dataset was inspected and prepared for analysis using Python and Pandas.
+
+1. Dataset Structure and Data Types
+
+- Checked the dataset structure using "df.info()".
+- Checked all column data types using "df.dtypes".
+- Numeric and categorical columns were found to have appropriate data types.
+- No incorrect data types were identified.
+
+2. Missing Values
+
+- Checked all columns for missing values.
+- Result: No missing values found.
+
+3. Duplicate Records
+
+- Checked the dataset for duplicate rows.
+- Result: 0 duplicate records found.
+
+4. Categorical Value Consistency
+
+- Checked unique values and value frequencies for categorical columns.
+- No obvious inconsistent categorical values were identified.
+
+5. Extra Spaces
+
+- Checked categorical values for leading or trailing spaces.
+- Result: No extra spaces found.
+
+6. Cleaned Dataset
+
+- Created a verified copy of the dataset.
+- Exported the prepared dataset as "student_mat_cleaned.csv".
+
+Output
+
+The prepared dataset is saved as:
+
+"student_mat_cleaned.csv"
