@@ -1,4 +1,4 @@
-# SWYNEX - Student Performance Dataset Data Cleaning
+# SWYNEX - Student Performance Dataset - Data Cleaning
 
 ## Dataset
 
