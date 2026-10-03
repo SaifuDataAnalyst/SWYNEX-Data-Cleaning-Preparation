@@ -6,7 +6,7 @@
 
 Data Analyst Internship — SWYNEX Technologies
 
-###Task
+### Task
 
 Task 2 — Exploratory Data Analysis (EDA)
 
@@ -208,7 +208,7 @@ Note: The observed relationships represent associations in the dataset and shoul
 
 ---
 
-Task Status
+### Task Status
 
 Task 2 — Exploratory Data Analysis: Completed
 
