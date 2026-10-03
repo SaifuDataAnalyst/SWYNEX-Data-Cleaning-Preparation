@@ -132,7 +132,7 @@ Yes| 10.62
 
 ---
 
-### Correlation Insights
+## Correlation Insights
 
 The analysis showed the following correlations with the final grade ("G3"):
 
@@ -159,7 +159,7 @@ These correlations describe relationships within the dataset and do not establis
 
 ---
 
-### Visualizations
+## Visualizations
 
 The following visualizations were created and saved in the "EDA_Visualizations" folder:
 
@@ -181,7 +181,7 @@ Shows the average final grade across different study-time categories.
 
 ---
 
-### Project Structure
+## Project Structure
 
 SWYNEX_Task_2_EDA/
 │
@@ -196,7 +196,7 @@ SWYNEX_Task_2_EDA/
 
 ---
 
-### Conclusion
+## Conclusion
 
 The Exploratory Data Analysis identified several important patterns in the Student Performance dataset.
 
@@ -208,7 +208,7 @@ Note: The observed relationships represent associations in the dataset and shoul
 
 ---
 
-### Task Status
+## Task Status
 
 Task 2 — Exploratory Data Analysis: Completed
 
