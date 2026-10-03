@@ -12,7 +12,7 @@ Task 2 — Exploratory Data Analysis (EDA)
 
 ---
 
-##Project Overview
+### Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on the Student Performance Dataset — Mathematics.
 
