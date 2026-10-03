@@ -1,18 +1,18 @@
-SWYNEX Technologies — Task 2: Exploratory Data Analysis
+# SWYNEX Technologies — Task 2: Exploratory Data Analysis
 
-Student Performance Dataset — Mathematics
+## Student Performance Dataset — Mathematics
 
-Internship
+### Internship
 
 Data Analyst Internship — SWYNEX Technologies
 
-Task
+###Task
 
 Task 2 — Exploratory Data Analysis (EDA)
 
 ---
 
-Project Overview
+##Project Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on the Student Performance Dataset — Mathematics.
 
@@ -22,7 +22,7 @@ The analysis was performed using Python and standard data analysis and visualiza
 
 ---
 
-Dataset Information
+### Dataset Information
 
 - Dataset: Student Performance Dataset — Mathematics
 - Source: UCI Machine Learning Repository
@@ -34,7 +34,7 @@ The dataset contains information related to students' demographic characteristic
 
 ---
 
-Objective
+### Objective
 
 The main objectives of this EDA are:
 
@@ -50,7 +50,7 @@ The main objectives of this EDA are:
 
 ---
 
-Tools & Technologies
+### Tools & Technologies
 
 - Python
 - Pandas
@@ -59,7 +59,7 @@ Tools & Technologies
 
 ---
 
-EDA Performed
+### EDA Performed
 
 The following analyses were performed:
 
@@ -84,15 +84,15 @@ The following analyses were performed:
 
 ---
 
-Key Findings
+### Key Findings
 
-Final Grade
+### Final Grade
 
 - Average G3: 10.42
 - Minimum G3: 0
 - Maximum G3: 20
 
-Study Time
+### Study Time
 
 Study Time| Average G3
 1| 10.05
@@ -102,7 +102,7 @@ Study Time| Average G3
 
 The highest average final grade in this dataset was observed for Study Time category 3.
 
-Previous Failures
+### Previous Failures
 
 Previous Failures| Average G3
 0| 11.25
@@ -112,13 +112,13 @@ Previous Failures| Average G3
 
 Students with fewer previous failures generally showed higher average final grades in this dataset.
 
-Gender
+### Gender
 
 Gender| Average G3
 Female| 9.97
 Male| 10.91
 
-School
+### School
 
 School| Average G3
 GP| 10.49
@@ -132,7 +132,7 @@ Yes| 10.62
 
 ---
 
-Correlation Insights
+### Correlation Insights
 
 The analysis showed the following correlations with the final grade ("G3"):
 
@@ -159,7 +159,7 @@ These correlations describe relationships within the dataset and do not establis
 
 ---
 
-Visualizations
+### Visualizations
 
 The following visualizations were created and saved in the "EDA_Visualizations" folder:
 
@@ -181,7 +181,7 @@ Shows the average final grade across different study-time categories.
 
 ---
 
-Project Structure
+### Project Structure
 
 SWYNEX_Task_2_EDA/
 │
@@ -196,7 +196,7 @@ SWYNEX_Task_2_EDA/
 
 ---
 
-Conclusion
+### Conclusion
 
 The Exploratory Data Analysis identified several important patterns in the Student Performance dataset.
 
